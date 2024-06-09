@@ -73,6 +73,7 @@
   <string>towLauncherTurret</string>
   <string>UniversalAmmoBoxBDA</string>
 </AllowedParts>
+
 <AllowedResources>
   <string>LaserBolt</string>
   <string>7.62x39Ammo</string>
