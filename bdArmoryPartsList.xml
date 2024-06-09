@@ -1,73 +1,132 @@
-<string>AMRAAM.EMP</string>
-<string>awacsRadar</string>
-<string>baha20mmAmmo</string>
-<string>baha30mmAmmo</string>
-<string>baha50CalAmmo</string>
-<string>bahaABL</string>
-<string>bahaAdjustableRail</string>
-<string>bahaAGM-65</string>
-<string>bahaAgm86B</string>
-<string>bahaAGM-114</string>
-<string>bahaAim9</string>
-<string>bahaAim120</string>
-<string>bahaBrowningAnm2</string>
-<string>bahaCamPod</string>
-<string>bahaCannonShellBox</string>
-<string>bahaChaffPod</string>
-<string>bahaClusterBomb</string>
-<string>bahaCmPod</string>
-<string>bahaECMJammer</string>
-<string>bahaFlirBall</string>
-<string>bahaGatlingGun</string>
-<string>bahaGau-8</string>
-<string>bahaGoalKeeper</string>
-<string>bahaH70Launcher</string>
-<string>bahaH70Turret</string>
-<string>bahaHarm</string>
-<string>bahaHEKV1</string>
-<string>bahaHiddenVulcan</string>
-<string>bahaJdamMk83</string>
-<string>bahaM1Abrams</string>
-<string>bahaM102Howitzer</string>
-<string>bahaM230ChainGun</string>
-<string>bahaMk82Bomb</string>
-<string>bahaMk82BombBrake</string>
-<string>bahaOMillennium</string>
-<string>bahaPac-3</string>
-<string>bahaRBS-15ALCruise</string>
-<string>bahaRBS-15Cruise</string>
-<string>bahaS-8Launcher</string>
-<string>bahaSmokeCmPod</string>
-<string>bahaTowMissile</string>
-<string>bahaTurret</string>
-<string>BD1x1panelArmor</string>
-<string>BD1x1slopeArmor</string>
-<string>BD2x1panelArmor</string>
-<string>BD2x1slopeArmor</string>
-<string>BD3x1panelArmor</string>
-<string>BD4x1panelArmor</string>
-<string>BDAcGKmk2</string>
-<string>BDAcUniversalAmmoBox</string>
-<string>bdammGuidanceModule</string>
-<string>BDAsonarPod1A</string>
-<string>bdPilotAI</string>
-<string>bdRadome1</string>
-<string>bdRadome1GA</string>
-<string>bdRadome1inline</string>
-<string>bdRadome1inlineGA</string>
-<string>bdRadome1snub</string>
-<string>bdRadome1snubGA</string>
-<string>bdRotBombBay</string>
-<string>bdShipAI</string>
-<string>bdWarheadSmall</string>
-<string>GoalKeeperBDAcMk1</string>
-<string>HellfireEMP</string>
-<string>missileController</string>
-<string>missileTurretTest</string>
-<string>patriotLauncherTurret</string>
-<string>radarDataReceiver</string>
-<string>scanLargeRadar</string>
-<string>scanLockRadar1</string>
-<string>StingRayBDATorpedo</string>
-<string>towLauncherTurret</string>
-<string>UniversalAmmoBoxBDA</string>
+<AllowedParts>
+  <string>AMRAAM.EMP</string>
+  <string>awacsRadar</string>
+  <string>baha20mmAmmo</string>
+  <string>baha30mmAmmo</string>
+  <string>baha50CalAmmo</string>
+  <string>bahaABL</string>
+  <string>bahaAdjustableRail</string>
+  <string>bahaAGM-65</string>
+  <string>bahaAgm86B</string>
+  <string>bahaAGM-114</string>
+  <string>bahaAim9</string>
+  <string>bahaAim120</string>
+  <string>bahaBrowningAnm2</string>
+  <string>bahaCamPod</string>
+  <string>bahaCannonShellBox</string>
+  <string>bahaChaffPod</string>
+  <string>bahaClusterBomb</string>
+  <string>bahaCmPod</string>
+  <string>bahaECMJammer</string>
+  <string>bahaFlirBall</string>
+  <string>bahaGatlingGun</string>
+  <string>bahaGau-8</string>
+  <string>bahaGoalKeeper</string>
+  <string>bahaH70Launcher</string>
+  <string>bahaH70Turret</string>
+  <string>bahaHarm</string>
+  <string>bahaHEKV1</string>
+  <string>bahaHiddenVulcan</string>
+  <string>bahaJdamMk83</string>
+  <string>bahaM1Abrams</string>
+  <string>bahaM102Howitzer</string>
+  <string>bahaM230ChainGun</string>
+  <string>bahaMk82Bomb</string>
+  <string>bahaMk82BombBrake</string>
+  <string>bahaOMillennium</string>
+  <string>bahaPac-3</string>
+  <string>bahaRBS-15ALCruise</string>
+  <string>bahaRBS-15Cruise</string>
+  <string>bahaS-8Launcher</string>
+  <string>bahaSmokeCmPod</string>
+  <string>bahaTowMissile</string>
+  <string>bahaTurret</string>
+  <string>BD1x1panelArmor</string>
+  <string>BD1x1slopeArmor</string>
+  <string>BD2x1panelArmor</string>
+  <string>BD2x1slopeArmor</string>
+  <string>BD3x1panelArmor</string>
+  <string>BD4x1panelArmor</string>
+  <string>BDAcGKmk2</string>
+  <string>BDAcUniversalAmmoBox</string>
+  <string>bdammGuidanceModule</string>
+  <string>BDAsonarPod1A</string>
+  <string>bdPilotAI</string>
+  <string>bdRadome1</string>
+  <string>bdRadome1GA</string>
+  <string>bdRadome1inline</string>
+  <string>bdRadome1inlineGA</string>
+  <string>bdRadome1snub</string>
+  <string>bdRadome1snubGA</string>
+  <string>bdRotBombBay</string>
+  <string>bdShipAI</string>
+  <string>bdWarheadSmall</string>
+  <string>GoalKeeperBDAcMk1</string>
+  <string>HellfireEMP</string>
+  <string>missileController</string>
+  <string>missileTurretTest</string>
+  <string>patriotLauncherTurret</string>
+  <string>radarDataReceiver</string>
+  <string>scanLargeRadar</string>
+  <string>scanLockRadar1</string>
+  <string>StingRayBDATorpedo</string>
+  <string>towLauncherTurret</string>
+  <string>UniversalAmmoBoxBDA</string>
+</AllowedParts>
+<AllowedResources>
+  <string>LaserBolt</string>
+  <string>7.62x39Ammo</string>
+  <string>7.7x56Ammo</string>
+  <string>7.92x57mmMauser</string>
+  <string>9x19mmParaAmmo</string>
+  <string>50CalAmmo</string>
+  <string>20x21Ammo</string>
+  <string>20x102Ammo</string>
+  <string>20x163Ammo</string>
+  <string>23x115Ammo</string>
+  <string>23x152Ammo</string>
+  <string>25x137Ammo</string>
+  <string>30x165Ammo</string>
+  <string>30x173Ammo</string>
+  <string>30x173HEAmmo</string>
+  <string>37mmFlaKAmmo</string>
+  <string>40x53Ammo</string>
+  <string>40x53HeAmmo</string>
+  <string>40x311Ammo</string>
+  <string>54cmMortarShells</string>
+  <string>57x438Ammo</string>
+  <string>TungstenShell</string>
+  <string>75x714Ammo</string>
+  <string>76x636Ammo</string>
+  <string>3inchShells</string>
+  <string>90mmShells</string>
+  <string>100mmShells</string>
+  <string>CannonShells</string>
+  <string>105mmShells</string>
+  <string>105mmHEShells</string>
+  <string>4p5inchQFShells</string>
+  <string>120mmAmmo</string>
+  <string>122mmQFShells</string>
+  <string>130Shells</string>
+  <string>5/62Shell</string>
+  <string>QF5-25Shell</string>
+  <string>138_140Shells</string>
+  <string>152Shells</string>
+  <string>155Shells</string>
+  <string>180Shells</string>
+  <string>203Shells</string>
+  <string>12inShells</string>
+  <string>356ApAmmo</string>
+  <string>356Shells</string>
+  <string>380Shells</string>
+  <string>M65ShellAmmo</string>
+  <string>406mmNuclearShells</string>
+  <string>16inchShells</string>
+  <string>460Shells</string>
+  <string>11inShells</string>
+  <string>Type4Rocket</string>
+  <string>ATRocket</string>
+  <string>Hades122rocket</string>
+  <string>Hydra70Rocket</string>
+  <string>S-8KOMRocket</string>
+</AllowedResources>
