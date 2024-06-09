@@ -129,4 +129,7 @@
   <string>Hades122rocket</string>
   <string>Hydra70Rocket</string>
   <string>S-8KOMRocket</string>
+  <string>CMChaff</string>
+  <string>CMFlare</string>
+  <string>CMSmoke</string>
 </AllowedResources>
